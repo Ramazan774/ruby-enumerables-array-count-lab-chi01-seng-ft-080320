@@ -4,6 +4,7 @@ array_2 = ["", 4, "", "goodbye",""]
 array.count do |element|
   element  "String"
 end
+count_strings(array)
  end
  
  end
