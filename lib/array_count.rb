@@ -3,7 +3,7 @@ array_1 = ["", "hello", "world", 4, 1, 5, [], {}]
 array_2 = ["", 4, "", "goodbye",""]
 array = [array_1, array_2]
 array.count do |element|
-  element  "String"
+  element = "String"
 count_strings(array)
 end
  end
